@@ -16,6 +16,7 @@ When the CH9143 is in master/slave mode, the CH914x can be paired with a specifi
 1. The CH9143 is in master-slave mode. The CH9143 is in slave mode or master-slave mode.
 2. Power on both parties within 3s.
 3. If the indicator blinks for three times and then keeps on, the pairing is successful.  
+
 If you need to re-establish a pair, you need to go through the pairing process again. The difference is that the indicator in Step 3 blinks quickly. In this case, you can re-establish a pair by powering on any end.
 
 ## Interface description
@@ -42,13 +43,13 @@ Press the RELOAD button before power-on and release it 3 seconds later to restor
 
 ### Blue light
 |No.|Status|Description|
-|:--:|:--|
-|1|Three quick flashes once after power-on|is in slave mode|
+|:--:|:--|:--|
+|1|Three quick flashes once after power-on|Is in slave mode|
 |2| Two quick flashes 3 after the power-on|The system is working in master-slave mode|
 |3|500ms the interval is blinking slowly|The current broadcast status|
-|4|on|The current connection status|
+|4|ON|The current connection status|
 |5|Connection status quick flashes|Data is being transferred |
-|6|quick flashes during pairing|has been paired with another device and needs to be powered on again to complete the pairing|
+|6|Quick flashes during pairing|Has been paired with another device and needs to be powered on again to complete the pairing|
 
 ## Directory description
 |Directory name|Contents|
