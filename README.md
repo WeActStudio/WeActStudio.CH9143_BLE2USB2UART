@@ -1,4 +1,4 @@
-* [中文版本](./README-zh.md)
+* [中文版本](./README_zh.md)
 # WeActStudio.CH9143_BLE2USB2UART
 ![display](Images/1.png)
 The CH9143 is a BLE/UART/USB three-way chip that enables data transfer between Bluetooth, USB, and serial ports. Bluetooth supports host mode, slave mode and master-slave integrated mode, and Bluetooth communication and parameters can be configured under slave mode and master-slave integrated mode, supporting BLE4.2. The serial port supports AT command configuration, supports MODEM contact signal, and has a maximum baud rate of 1Mbps. At the same time, it can realize online debugging or data monitoring between computer USB interface, serial port and Bluetooth.  
